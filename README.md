@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @salomonxt
 - 👀 I’m interested in woman
-- 🌱 I’m currently learning that everything is possible
+- 🌱 I’m currently learning everything is possible
 - 💞️ I’m looking to collaborate with woman
-- 📫 How to reach me ? Email
+- 📫 How to reach me ? Hugh
 - 😄 Pronouns: ... SuperMen
 - ⚡ Fun fact: ... I like cows
 
