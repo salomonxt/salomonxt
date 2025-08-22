@@ -1,10 +1,10 @@
 - 👋 Hi, I’m salomon
-- 👀 I’m interested in woman
+- 👀 I’m interested in 
 - 🌱 I’m currently learning everything is possible
-- 💞️ I’m looking to collaborate with aliens
+- 💞️ I’m looking to collaborate with 
 - 📫 How to reach me ?
-- 😄 Pronouns: ... SuperMen
-- ⚡ Fun fact: ... I like cows
+- 😄 Pronouns: ... King
+- ⚡ Fun fact: ... 
 
 <!---
 salomonxt/salomonxt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
