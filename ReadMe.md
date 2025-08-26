@@ -2,8 +2,9 @@
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@salomonweltweit?si=95AmdaidPGWf9lQK) 
 
-[![Discord](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.eLAr5A5G6vG6fyuwg0kxOAHaHa%3Fpid%3DApi&f=1&ipt=57eaeea06da582c3fd641f85b024ec31a673a24f77f3e3ea24ebe9579824b76d&ipo=images)]
+[![Discord](<img width="50" height="50" alt="icons8-discord-logo-50" src="https://github.com/user-attachments/assets/7541cd90-fe2c-4794-94bc-1b77dee4a8c4" />)
 (https://discord.gg/zbQVxY5Y)
+
 
 
 # 💻 Tech Stack:
