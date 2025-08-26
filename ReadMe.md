@@ -3,6 +3,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@salomonweltweit?si=95AmdaidPGWf9lQK) 
 
 <img width="64" height="64" alt="icons8-discord-logo-64" src="https://github.com/user-attachments/assets/b9f9967d-f09a-4068-ab4b-28e3807d14c6" />
+</br>
 https://discord.gg/zbQVxY5Y
 
 
