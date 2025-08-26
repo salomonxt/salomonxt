@@ -2,8 +2,9 @@
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@salomonweltweit?si=95AmdaidPGWf9lQK) 
 
-<img width="50" height="50" alt="icons8-discord-logo-50" src="https://github.com/user-attachments/assets/7541cd90-fe2c-4794-94bc-1b77dee4a8c4" />
+<img width="64" height="64" alt="icons8-discord-logo-64" src="https://github.com/user-attachments/assets/b9f9967d-f09a-4068-ab4b-28e3807d14c6" />
 https://discord.gg/zbQVxY5Y
+
 
 
 
